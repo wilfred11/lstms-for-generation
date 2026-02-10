@@ -1,0 +1,10 @@
+key,value
+iterations,10000
+max_len,20
+evaluate_interval,1000
+embedding_dim,128
+hidden_size,256
+n_layers,2
+lr,0.003
+batch_size,64
+bidirectional,True
